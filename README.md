@@ -7,7 +7,7 @@ Embedded Systems | HTML | CSS | C++ | Python | Java
 *(Still learning)*
 
 ### 🌐 Connect
-[Viber](#) | [Facebook](#)
+[Viber](https://vb.me/letsChatOnViber) 
 
 ### 🎯 Interests
 Web development | Hardware-to-software systems
