@@ -3,9 +3,9 @@
 I'm learning **web development** and **hardware-to-software systems**.
 
 ## Skills
-- Embedded Systems (Basic)  
-- HTML, CSS (Basic)  
-- C++, Python, Java (Basic)   
+- Embedded Systems (Still learning)  
+- HTML, CSS (Still learning)  
+- C++, Python, Java (Still learning)  
 
 ## Connect
 - **Viber:** Anna Marie Zolina  
