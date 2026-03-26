@@ -1,4 +1,4 @@
-# Hi, I'm Anna Marie Zolina👋
+Hi, I'm Anna Marie Zolina👋
 
 Learning **web development** & **hardware-to-software systems**.
 
