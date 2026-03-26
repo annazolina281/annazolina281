@@ -1,16 +1,13 @@
-# Hi, I'm Anna Marie 👋
+# Hi, I'm Anna Marie Zolina👋
 
-I'm learning **web development** and **hardware-to-software systems**.
+Learning **web development** & **hardware-to-software systems**.
 
-## Skills
-- Embedded Systems (Still learning)  
-- HTML, CSS (Still learning)  
-- C++, Python, Java (Still learning)  
+### 🛠 Skills
+Embedded Systems | HTML | CSS | C++ | Python | Java  
+*(Still learning)*
 
-## Connect
-- **Viber:** Anna Marie Zolina  
-- **Facebook:** Anna Marie Zolina  
+### 🌐 Connect
+[Viber](#) | [Facebook](#)
 
-## Interests
-- Web development  
-- Hardware-to-software systems
+### 🎯 Interests
+Web development | Hardware-to-software systems
